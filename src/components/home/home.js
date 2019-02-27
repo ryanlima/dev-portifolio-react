@@ -30,12 +30,12 @@ const Home = () => (
           <h5 className="subtitle">Experiences</h5>
            <Experience title="Ruby Developer"
                         company="SoundCloud"
-                        descriptio="Lorem ipsum dolor sit amet"
+                        description="Lorem ipsum dolor sit amet"
                         avatar={company_avatar}/>
 
             <Experience title="React Developer"
                         company="Twitter"
-                        descriptio="Lorem ipsum dolor sit amet"
+                        description="Lorem ipsum dolor sit amet"
                         avatar={company_avatar2}/> 
       </Col>
     </Row>

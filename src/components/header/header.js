@@ -1,7 +1,7 @@
 // Importanto o React
 import React from "react";
 // Importando Materialize
-import { Navbar , NavItem , Row} from 'react-materialize';
+import { Navbar , Row} from 'react-materialize';
 // Importando o Component NavLink
 import { NavLink} from 'react-router-dom';
 
